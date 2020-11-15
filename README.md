@@ -1,4 +1,4 @@
-# DocmentStore
+# DocumentStore
 Data Structures Semester Project (Spring 2020)
 
 * Database program for documents created, using Maven, in five stages throughout the Data Structures Course in Spring 2020 
